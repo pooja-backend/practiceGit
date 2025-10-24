@@ -1,2 +1,2 @@
-let gitHub="This is Git Hub session"
+let gitHub="This is Git practice!!"
 console.log(gitHub);
